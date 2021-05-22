@@ -1,5 +1,3 @@
 # ExpressJS
 
-My frist API using ExpressJS
-
-This aplication collect datas and to create a JSON whith your information.
+This repository is dedicated to save projects using the Express JS technology.
